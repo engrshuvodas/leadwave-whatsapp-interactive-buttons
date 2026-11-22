@@ -1,9 +1,11 @@
-If you want to activate the software, just message me on WhatsApp. The Wasender software is now fully bug-free and working perfectly. This is the new version-4.
+LeadWave for Windows
+Request the Windows installer from Shuvo on WhatsApp: https://wa.me/919641700503.
+Open LeadWave, copy the device code and request a trial key from Shuvo at
+https://wa.me/919641700503. Enter the key and connect your WhatsApp number.
 
-also, If you face any problem, contact me on WhatsApp 📞 +91 9641700503
+Start in Message Templates. Add a quick reply, website link, coupon code
+or call button. Send a test message and check the button on the receiving phone.
+For keyword triggers and message-specific flows, open Auto Reply or Chatbot Builder.
 
-YouTube 🎥: https://www.youtube.com/channel/UCBSp5uzupWciWlT8bSN0kMg
-
-Portfolio 🌐: https://engrshuvodas.github.io/SHUVO-_portfolio/
-
-Fiverr 💼: https://www.fiverr.com/s/Gz6ZYKZ
+Setup guide: LeadWave-Setup-Guide.pdf
+Email: engrshuvoda@gmail.com
