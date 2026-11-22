@@ -111,6 +111,14 @@ LeadWave connects through WhatsApp Web and charges no per-message fee.
 
 <div align="center">
 
+**A button message as the recipient sees it**
+
+<img src="./img/whatsapp-button-message-example.jpeg" alt="WhatsApp message with a Join Private Community link button and a What time is the session? quick reply" width="360">
+
+**Join Private Community** opens a link. **What time is the session?** sends that question back in the chat.
+
+<br><br>
+
 **Message Templates** — Add a “Choose a size” button that opens your product page or a coupon button that copies an offer code.
 
 <img src="./img/leadwave-message-templates.png" alt="LeadWave interactive WhatsApp message template editor" width="90%">
@@ -220,6 +228,14 @@ LeadWave connects through WhatsApp Web and charges no per-message fee.
 ## 📺 Demos & Tutorials
 
 <div align="center">
+
+### ▶ LeadWave Overview — How to Send WhatsApp Button Messages
+
+<a href="https://youtu.be/_Qu8mIAcScQ"><img src="https://i.ytimg.com/vi/_Qu8mIAcScQ/hqdefault.jpg" alt="Play the LeadWave Overview tutorial on YouTube" width="480"></a>
+
+[▶ Play on YouTube](https://youtu.be/_Qu8mIAcScQ) · [Watch on the download page](https://leadwave-pro.vercel.app/#leadwave-overview)
+
+<br>
 
 **Auto Reply** — Choose *Create Rule* to match an incoming keyword such as “delivery” to a saved answer.
 
