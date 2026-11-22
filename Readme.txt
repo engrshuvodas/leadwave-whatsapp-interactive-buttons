@@ -1,5 +1,5 @@
 LeadWave for Windows
-Request the Windows installer from Shuvo on WhatsApp: https://wa.me/919641700503.
+Windows download page: https://leadwave-pro.vercel.app/
 Open LeadWave, copy the device code and request a trial key from Shuvo at
 https://wa.me/919641700503. Enter the key and connect your WhatsApp number.
 

@@ -22,9 +22,13 @@
 
 ## ⚡ Give customers a next step inside WhatsApp
 
-### 👉 [Request the LeadWave Windows installer](https://wa.me/919641700503?text=Hi%2C%20please%20send%20me%20the%20LeadWave%20Windows%20installer.) 👈
+# 👉 [**DOWNLOAD LEADWAVE FOR WINDOWS**](https://leadwave-pro.vercel.app/) 👈
 
-**Get the installer and trial key directly from Shuvo.**
+### 🎁 Get the installer and request your free trial key from Shuvo.
+
+[![Open LeadWave download page](./img/badges/download.svg)](https://leadwave-pro.vercel.app/)
+
+[leadwave-pro.vercel.app](https://leadwave-pro.vercel.app/)
 
 ---
 
@@ -121,6 +125,39 @@ LeadWave connects through WhatsApp Web and charges no per-message fee.
 
 <br>
 
+## 🔑 Trial & License Activation
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🖥️ On your Windows PC**
+
+- Install LeadWave and open the activation screen.
+- Copy the device code shown for your computer.
+
+</td>
+<td width="50%" valign="top">
+
+**💬 With Shuvo on WhatsApp**
+
+- Send your device code to request a trial key.
+- Enter the key in LeadWave and connect your number.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**License activation** — Your own device code appears in the field beside the Copy button.
+
+<img src="./img/leadwave-license.png" alt="LeadWave license activation screen with device code and Copy button" width="90%">
+
+</div>
+
+<br>
+
 ## 💼 Who Is This For?
 
 | Audience | Example |
@@ -134,7 +171,7 @@ LeadWave connects through WhatsApp Web and charges no per-message fee.
 
 ## ⚙️ Getting Started
 
-1. [Message Shuvo for the Windows installer](https://wa.me/919641700503?text=Hi%2C%20please%20send%20me%20the%20LeadWave%20Windows%20installer.), then install LeadWave and open it.
+1. [Open the Windows download page](https://leadwave-pro.vercel.app/), then install LeadWave and open it.
 2. Copy the device code shown on first launch. [Contact activation support](https://wa.me/919641700503) for a trial key, then enter the key in the app.
 3. Connect your WhatsApp number. Create one template and send it to a test contact. Tap the button on the receiving phone to check the destination or reply.
 
@@ -150,6 +187,8 @@ LeadWave connects through WhatsApp Web and charges no per-message fee.
 
 <div align="center">
 
+[![Open the Windows download page](./img/badges/download.svg)](https://leadwave-pro.vercel.app/)
+
 **For a trial key, purchase enquiry or setup help, contact Engr Shuvo Das.**
 
 [![Chat on WhatsApp](./img/badges/whatsapp.svg)](https://wa.me/919641700503) [![Contact by email](./img/badges/email.svg)](mailto:engrshuvoda@gmail.com)
@@ -162,7 +201,44 @@ LeadWave connects through WhatsApp Web and charges no per-message fee.
 
 ---
 
+## 🌍 Client Reviews
+
+<div align="center">
+
+**Read reviews of Shuvo’s WhatsApp software work on Fiverr.**
+
+<a href="https://www.fiverr.com/s/VYZLokm"><img src="./img/fiverr-review.png" alt="Customer reviews on Shuvo’s Fiverr gig" width="220"></a>
+
+[View Shuvo’s Fiverr reviews](https://www.fiverr.com/s/VYZLokm)
+
+</div>
+
+<br>
+
+---
+
+## 📺 Demos & Tutorials
+
+<div align="center">
+
+**Auto Reply** — Choose *Create Rule* to match an incoming keyword such as “delivery” to a saved answer.
+
+<img src="./img/leadwave-auto-reply.png" alt="LeadWave Auto Reply dashboard with the Create Rule button" width="90%">
+
+[Watch Shuvo’s tutorials](https://www.youtube.com/@engr_shuvo) · [Read the LeadWave setup guide](./LeadWave-Setup-Guide.pdf)
+
+</div>
+
+---
+
 ## ❓ Frequently Asked Questions
+
+<details>
+<summary><strong>Where can I get the Windows installer and trial key?</strong></summary>
+
+Visit the [LeadWave download page](https://leadwave-pro.vercel.app/) for the installer. After first launch, send your device code to Shuvo on WhatsApp for activation.
+
+</details>
 
 <details>
 <summary><strong>What happens when someone taps a quick reply?</strong></summary>
@@ -186,6 +262,28 @@ LeadWave connects to your existing WhatsApp number through WhatsApp Web. You can
 </details>
 
 <br>
+
+---
+
+<div align="center">
+
+### **Engr Shuvo Das**
+
+| Platform | Link |
+|:---|:---|
+| 💬 **WhatsApp** | [Chat Now](https://wa.me/+919641700503) |
+| 💼 **LinkedIn** | [Profile](https://www.linkedin.com/in/engrshuvoda/) |
+| 📺 **YouTube** | [Channel](https://www.youtube.com/channel/UCEJ0R871tF2PLT27q9azYWg) |
+| 🧑‍💻 **GitHub** | [Repositories](https://github.com/engrshuvodas) |
+| 🟢 **Fiverr** | [Hire Me](https://www.fiverr.com/shuvo_das74886) |
+| 🌐 **Portfolio** | [About Me](https://engrshuvodas.github.io/me/) |
+| ✉️ **Email** | [engrshuvoda@gmail.com](mailto:engrshuvoda@gmail.com) |
+| 🐦 **X (Twitter)** | [@engrshuvodas](https://x.com/engrshuvodas) |
+| 📘 **Facebook** | [Engr Shuvo](https://www.facebook.com/engr.shuvo74886/) |
+
+<br>
+
+</div>
 
 ---
 
