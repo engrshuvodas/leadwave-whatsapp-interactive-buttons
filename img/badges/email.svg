@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="28" role="img" aria-label="CONTACT EMAIL">
+  <rect width="164" height="28" fill="#2563ac"/>
+  <rect width="79" height="28" fill="#374151"/>
+  <g fill="white" font-family="Verdana, sans-serif" font-weight="bold" font-size="10" text-anchor="middle">
+    <text x="40" y="18">CONTACT</text>
+    <text x="122" y="18">EMAIL</text>
+  </g>
+</svg>
