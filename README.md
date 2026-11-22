@@ -129,6 +129,12 @@ LeadWave connects through WhatsApp Web and charges no per-message fee.
 
 <img src="./img/leadwave-chatbot-builder.png" alt="LeadWave builder for message-specific chat flows" width="90%">
 
+<br><br>
+
+**Device Health** — Check each connected number’s health score, estimated daily sending capacity and recent activity.
+
+<img src="./img/leadwave-device-health.png" alt="LeadWave Device Health dashboard showing two healthy devices, one elevated device and per-number sending estimates" width="90%">
+
 </div>
 
 <br>
