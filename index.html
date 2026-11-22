@@ -982,6 +982,12 @@
             border: 0;
             border-radius: 12px;
         }
+        .download-notice {
+            padding: 16px 22px;
+            color: #612013;
+            background: #fff0e7;
+            border-bottom: 2px solid #bc4830;
+        }
     </style>
 </head>
 
@@ -990,6 +996,7 @@
     <div class="container">
         <div class="download-card">
             <!-- Header -->
+            <div id="download-notice" class="download-notice" role="alert" hidden></div>
             <div class="header">
                 <div class="logo">💬</div>
                 <h1 class="app-title">LeadWave</h1>
@@ -1150,6 +1157,34 @@
     </div>
 
     <script>
+        async function checkDownloadStatus() {
+            const notice = document.getElementById('download-notice');
+            const button = document.querySelector('.download-button');
+            let message = '';
+            try {
+                const response = await fetch('/api/download-status', {
+                    cache: 'no-store',
+                    signal: AbortSignal.timeout(12000)
+                });
+                if (!response.ok) throw new Error('Status check unavailable');
+                const { file, checkedUrl, publishedUrl } = await response.json();
+                if (publishedUrl && publishedUrl !== button.href) {
+                    message = 'Download link changed. The publisher lists a different Windows installer. The site owner should update the download button.';
+                } else if (checkedUrl === button.href && file === 'missing') {
+                    message = 'Installer not found. The Windows download has been removed or renamed. The site owner should check the download link.';
+                } else if (checkedUrl === button.href && file === 'invalid') {
+                    message = 'Download error. The link no longer returns a Windows installer. Please contact support.';
+                } else if (checkedUrl !== button.href || file !== 'ready' || !publishedUrl) {
+                    throw new Error('Incomplete status check');
+                }
+            } catch {
+                message = 'Download status unavailable. The installer link could not be verified. Refresh to check again.';
+            }
+            notice.textContent = message;
+            notice.hidden = !message;
+        }
+        checkDownloadStatus();
+
         // Add smooth parallax effect on background
         document.addEventListener('mousemove', (e) => {
             const x = e.clientX / window.innerWidth;
